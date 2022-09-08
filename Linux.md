@@ -105,7 +105,7 @@ mv /home/ty/test/testNew newTest
 
 ![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908144859312.png)
 
-> vim abc.txt :如果是第一次使用，则会新建![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908151747990.png)
+> vim abc.txt :如果是第一次使用，则会新建![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908144859312.png)
 >
 > 按键:
 >
