@@ -6,13 +6,12 @@
 
 ![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908092816357.png)
 
-![image-20220908092832104](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908092832104.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908092832104.png)
 
-![image-20220908113956016](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908113956016.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908113956016.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908114107855.png)
 
-![image-20220908114107855](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908114107855.png)
-
-![image-20220908114126474](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908114126474.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908114126474.png)
 
 ```sh
 #!/bin/sh
@@ -92,21 +91,21 @@ mv /home/ty/test/testNew newTest
 > > 
 > > ````
 
-![image-20220908135702170](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908135702170.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908135702170.png)
 
-![image-20220908141727825](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908141727825.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908141727825.png)
 
-![image-20220908141901361](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908141901361.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908141901361.png)
 
 ### 以root方式登录
 
-![image-20220908143630298](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908143630298.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908144628066.png)
 
 ## vim文本编辑器
 
-![image-20220908144628066](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908144628066.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908144859312.png)
 
-> vim abc.txt :如果是第一次使用，则会新建![image-20220908144859312](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908144859312.png)
+> vim abc.txt :如果是第一次使用，则会新建![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908151747990.png)
 >
 > 按键:
 >
@@ -122,21 +121,21 @@ mv /home/ty/test/testNew newTest
 
 ## 运行java程序
 
-![image-20220908151747990](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908151747990.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908151747990.png)
 
 > 打包成可运行的jar包，使用java -jar xxx.jar即可运行
 
 ## 查看进程
 
-![image-20220908154350860](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908154350860.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908154350860.png)
 
 ## VSCode Remote-ssh插件连接
 
-![image-20220908155950621](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908155950621.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908155950621.png)
 
-![image-20220908160246965](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908160246965.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908160246965.png)
 
-![image-20220908161241321](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908161241321.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908161241321.png)
 
 # 总结
 
