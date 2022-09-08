@@ -4,7 +4,7 @@
 >
 > 这次属于再了解过程，主要了解Linux系统下的命令行操作，以及如何在本地和虚拟机服务器进行连接，后续的服务器相关知识也会慢慢了解。
 
-![image-20220908092816357](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908092816357.png)
+![img](https://github.com/Trae1ounG/LinuxTry/blob/master/Linux.assets/image-20220908092816357.png)
 
 ![image-20220908092832104](C:\Users\谭宇乔\Desktop\md\Linux.assets\image-20220908092832104.png)
 
