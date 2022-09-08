@@ -1,4 +1,4 @@
-![img](https://badgen.net/badge/:subject/:status/:blue?icon=github)
+![img](https://badgen.net/badge/:焦糖招新#2#3/:Typora Linux/:blue?icon=github)
 # LinuxTry
 # 焦糖#3
 # &#x270d;写在前面
