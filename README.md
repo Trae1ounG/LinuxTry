@@ -1,4 +1,4 @@
-!img[https://badgen.net/badge/:subject/:status/:red?icon=github]
+![img](https://badgen.net/badge/:subject/:status/:red?icon=github)
 # LinuxTry
 # 焦糖#3
 # &#x270d;写在前面
